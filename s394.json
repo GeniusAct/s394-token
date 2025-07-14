@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "AsoF93jjPRmC8kZABfRrHdVQdub4zuoBuJr2dA1e14c9",
+  "symbol": "S394",
+  "name": "S.394",
+  "decimals": 9,
+  "logoURI": "https://pbs.twimg.com/profile_images/1942365711591993344/eYYtHsMG_400x400.jpg",
+  "tags": ["memecoin"],  // optional
+  "extensions": {
+    "website": "https://yourprojectwebsite.com", // optional
+    "twitter": "https://x.com/S__394" // optional
+  }
+}
